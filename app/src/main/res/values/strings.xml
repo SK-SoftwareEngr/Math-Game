@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MathGame</string>
+    <string name="app_title">Math Game for Kids</string>
+    <string name="addition">Addition</string>
+    <string name="subtraction">Subtraction</string>
+    <string name="multiplication">Multiplication</string>
+    <string name="division">Division</string>
+    <string name="enter_answer">Enter Answer Here</string>
+
+    <!-- Setting TextView values when answer is right or wrong -->
+    <string name="time_up">Time is Up!</string>
+    <string name="right_answer">Right Answer!</string>
+    <string name="wrong_answer">Wrong Answer!</string>
+    <string name="score">Score</string>
+    <string name="life">Life</string>
+    <string name="time">Time</string>
+    <string name="submit">Submit</string>
+    <string name="next_question">Next Question</string>
+    <string name="play_again">Play Again</string>
+    <string name="exit">Exit</string>
+</resources>
